@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@700&family=Poppins:wght@300&family=Ubuntu:wght@700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+
+.relative{
+    position: relative;
+}
+
+.absolute{
+    position: absolute;
+}
+.fixed{
+    position: fixed;
+}
+.bold{
+    font-weight: bold;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.flex-row{
+    flex-direction: row;
+}
+
+.items-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+
+.link{
+    color:white;
+    text-decoration: none;
+    font-family: Poppins, sans-serif;
+    cursor: pointer;
+}

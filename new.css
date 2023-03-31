@@ -1,0 +1,75 @@
+.nav{
+    position: absolute;
+    top: 2rem;
+    left: 2rem;
+}
+
+.topright{
+    
+    position: relative;
+    left: 71rem;
+    list-style: none;
+}
+
+.btn2{
+    position: relative;
+    top: -0.25rem;
+    left: 2rem;
+    padding: 0.2rem;
+    border-radius: 0.45rem;
+    width: 6.5rem;
+    height: 3rem;
+    background-color: white;
+    cursor: pointer;
+    border-color: #9b99af;
+    color: #050038;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+
+.section1{
+    position: relative;
+    top: 8rem;
+}
+
+.head{
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 2.7rem;
+    padding: 1rem;
+}
+
+.content{
+    padding: 1rem;
+    width: 27rem;
+    color: #050038;
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+
+}
+
+#Email{
+    width: 26rem;
+    height: 3.5rem;
+    font-family: 'Poppins', sans-serif;
+    font-size: 28px;
+    position: relative;
+    top: 2rem;
+    border-radius: 0.5rem;
+    border-color: grey;
+
+}
+
+.btn1{
+    width: 26rem;
+    height: 3.5rem;
+    position: relative;
+    background-color: #4262ff;
+    border-radius: 0.5rem;
+    border-color: #4262ff;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    color: white;
+    top: 3rem;
+}
+
